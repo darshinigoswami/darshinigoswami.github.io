@@ -6,7 +6,7 @@ layout: home
 title: About me
 ---
 
-👋  Hello world! I'm a Mechatronics Engineering student at [Ryerson University](https://www.ryerson.ca). One of the classes I've enjoyed the most is Engineering Design (MEC 325) where I led my team from project conceptualization to evaluation to innovate hospital patient lifts. Read more about my project [here](https://docs.google.com/document/d/1h0FXEsOLpZK0MNxRrrf5QQXOV1cyYtP4aKf-DwHzdM8/edit).
+👋    Hello world! I'm a Mechatronics Engineering student at [Ryerson University](https://www.ryerson.ca). One of the classes I've enjoyed the most is Engineering Design (MEC 325) where I led my team from project conceptualization to evaluation to innovate hospital patient lifts. Read more about my project [here](https://docs.google.com/document/d/1h0FXEsOLpZK0MNxRrrf5QQXOV1cyYtP4aKf-DwHzdM8/edit).
 
 I am passionate about developing and implementing sustainable technologies into everyday practices. 
 
