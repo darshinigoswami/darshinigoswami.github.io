@@ -10,7 +10,7 @@ title: About me
 
 I am passionate about developing and implementing sustainable technologies into everyday practices. 
 
-Through previous internships at [Suncor](https://www.suncor.com/) and [IBM-Intelense](https://www.ibm.com/ca-en), I have developed a diverse skillset for creating user-first, meaningful and impactful projects. Check out my [<ins>resume</ins>](/Resume.pdf) for more details on the projects I have lead. 
+Through previous internships at [Suncor](https://www.suncor.com/) and [IBM-Intelense](https://www.intelense.com/), I have developed a diverse skillset for creating user-first, meaningful and impactful projects. Check out my [<ins>resume</ins>](/Resume.pdf) for more details on the projects I have lead. 
 
 In my free time, I love to hike, get bubble tea, and hit the gym for some kick-boxing. I also love getting involved in Design Teams at Ryerson to find new projects to learn from. 
 I'm always up for a good challenge!
